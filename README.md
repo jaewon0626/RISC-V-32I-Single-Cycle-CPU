@@ -4,7 +4,7 @@ Single Cycle RISC-V 32I CPU는 RISC-V 명령어 집합 구조(ISA) 중 가장 �
 ## RISC-V 개요
 <img width="784" height="364" alt="Image" src="https://github.com/user-attachments/assets/380a72e3-1853-4835-b1b1-2a10f4255773" />
 
-## RISC-V instruction set
+## RISC-V Instruction Set
 <img width="894" height="276" alt="Image" src="https://github.com/user-attachments/assets/73a5819d-9a3c-403c-bb50-da83c7464945" />
 
 ## RISC-V Block Diagram
