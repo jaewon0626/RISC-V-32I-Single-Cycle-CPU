@@ -14,8 +14,8 @@
 <br>
 
 ## 특징
-### 1. 핵심 개념: CPI = 1Cycles Per Instruction 
-#### (CPI): 모든 명령어(Load, Store, Branch, R-type 등)가 단 1 사이클 안에 인출(Fetch)부터 실행(Execute), 라이트백(Write-back)까지 동작한다.
+### 1. 핵심 개념
+#### 모든 명령어(Load, Store, Branch, R-type 등)가 단 1 사이클 안에 인출(Fetch)부터 실행(Execute), 라이트백(Write-back)까지 동작한다.
 #### 1 클럭 사이클 안에 모든 명령어 실행이 실행된다는 특징이 있다. -> 시간이 적게 걸림
 <br>
 
