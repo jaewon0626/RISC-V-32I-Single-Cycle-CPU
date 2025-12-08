@@ -1,5 +1,5 @@
 # RISC-V-32I-Single-Cycle-CPU
-### RISC-V 32I Single Cycle CPU는 RISC-V 명령어 집합 구조(ISA) 중 가장 기본이 되는 32비트 정수형(Integer) 명령어 셋을 처리하는 프로세서로,1 클럭 사이클 안에 모든 명령어 실행이 실행된다는 특징이 있다.
+### RISC-V 32I Single Cycle CPU는 RISC-V 명령어 집합 구조(ISA) 중 가장 기본이 되는 32비트 정수형(Integer) 명령어 셋을 처리하는 프로세서이다.
 
 ## RISC-V 개요
 <img width="784" height="364" alt="Image" src="https://github.com/user-attachments/assets/380a72e3-1853-4835-b1b1-2a10f4255773" />
@@ -16,7 +16,7 @@
 ## 특징
 ### 1. 핵심 개념: CPI = 1Cycles Per Instruction 
 #### (CPI): 모든 명령어(Load, Store, Branch, R-type 등)가 단 1 사이클 안에 인출(Fetch)부터 실행(Execute), 라이트백(Write-back)까지 동작한다.
-#### 이 때문에 클럭의 주기($T_{clk}$)는 수행 시간이 가장 긴 명령어(보통 Load 명령어)의 지연 시간(Critical Path)에 맞춰 결정된다. -> 시간이 오래 걸림
+#### 1 클럭 사이클 안에 모든 명령어 실행이 실행된다는 특징이 있다. -> 시간이 적게 걸림
 <br>
 
 ### 2. 데이터패스(Datapath) 
