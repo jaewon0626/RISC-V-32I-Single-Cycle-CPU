@@ -20,11 +20,11 @@ Single Cycle RISC-V 32I CPU는 RISC-V 명령어 집합 구조(ISA) 중 가장 �
 <br>
 
 ### 2. 데이터패스(Datapath) 
-#### 1. IF (Instruction Fetch): PC(Program Counter)가 가리키는 주소의 명령어 메모리에서 명령어를 가져옵니다. 동시에 PC는 PC + 4로 업데이트됩니다.
-#### 2. ID (Instruction Decode): 가져온 명령어를 해석하여 레지스터 파일에서 소스 레지스터(rs1, rs2) 값을 읽고, Control Unit이 제어 신호를 생성합니다.
-#### 3. EX (Execute): ALU가 연산을 수행하거나, 주소 계산(Load/Store의 경우), 분기 조건 비교(Branch의 경우)를 수행합니다
-#### 4. MEM (Memory Access): Load/Store 명령어인 경우 데이터 메모리에 접근하여 값을 읽거나 씁니다. (R-type 등은 이 단계 패스)
-#### 5. WB (Write Back): 연산 결과나 메모리에서 읽은 값을 레지스터 파일(rd)에 씁니다.
+#### - IF (Instruction Fetch): PC(Program Counter)가 가리키는 주소의 명령어 메모리에서 명령어를 가져옵니다. 동시에 PC는 PC + 4로 업데이트됩니다.
+#### - ID (Instruction Decode): 가져온 명령어를 해석하여 레지스터 파일에서 소스 레지스터(rs1, rs2) 값을 읽고, Control Unit이 제어 신호를 생성합니다.
+#### - EX (Execute): ALU가 연산을 수행하거나, 주소 계산(Load/Store의 경우), 분기 조건 비교(Branch의 경우)를 수행합니다
+#### - MEM (Memory Access): Load/Store 명령어인 경우 데이터 메모리에 접근하여 값을 읽거나 씁니다. (R-type 등은 이 단계 패스)
+#### - WB (Write Back): 연산 결과나 메모리에서 읽은 값을 레지스터 파일(rd)에 씁니다.
 <br>
 
 ### 3. 제어 유닛 (Control Unit)의 특징
