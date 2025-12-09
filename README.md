@@ -11,6 +11,7 @@
 
 ## RISC-V Block Diagram
 <img width="1008" height="531" alt="Image" src="https://github.com/user-attachments/assets/bb8bcf95-d8de-40e1-86e6-dac2f6b1624a" />
+<img width="1498" height="922" alt="Image" src="https://github.com/user-attachments/assets/613a6f4d-0243-456f-893c-e0e4177eca6e" />
 <br>
 
 ## 특징
