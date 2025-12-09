@@ -21,7 +21,7 @@
 <img width="400" height="188" alt="Image" src="https://github.com/user-attachments/assets/f7521963-f8c7-4fa3-8c9a-ef782753ef16" />
 <br>
 
-### 2. 구성 요소
+### 2. 주요 특징
 #### 클록 주기 : 가장 느린 명령어(일반적으로 load)의 실행 시간에 맞춰 클록 주기가 결정된다.
 #### 하드웨어 구조 : 각 단계마다 별도의 하드웨어 유닛이 필요하다. (예: 별도의 명령어 메모리와 데이터 메모리, 여러 개의 ALU)
 #### CPI (Cycles Per Instruction) : 항상 1이다.
@@ -35,7 +35,12 @@
 ##### - WB (Write Back): 연산 결과나 메모리에서 읽은 값을 레지스터 파일(rd)에 쓴다.
 <br>
 
-### 3. 장단점
+### 3. 명령어별 동작
+#### R-type 명령어
+<img width="699" height="395" alt="Image" src="https://github.com/user-attachments/assets/8c3b1ee5-7e4f-402e-9524-19252ec24b81" /
+img width="768" height="407" alt="Image" src="https://github.com/user-attachments/assets/43a21b29-a690-4821-9e1f-e1fbd5c52831" />
+
+### 4. 장단점
 #### [장점]
 ##### 구현이 단순하고 이해하기 쉽다.
 ##### 제어 로직이 간단하다.
