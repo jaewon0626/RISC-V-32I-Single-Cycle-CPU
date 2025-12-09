@@ -7,11 +7,11 @@
 
 ## RISC-V Instruction Set
 <img width="894" height="276" alt="Image" src="https://github.com/user-attachments/assets/73a5819d-9a3c-403c-bb50-da83c7464945" />
+<img width="1498" height="922" alt="Image" src="https://github.com/user-attachments/assets/613a6f4d-0243-456f-893c-e0e4177eca6e" />
 <br>
 
 ## RISC-V Block Diagram
 <img width="1008" height="531" alt="Image" src="https://github.com/user-attachments/assets/bb8bcf95-d8de-40e1-86e6-dac2f6b1624a" />
-<img width="1498" height="922" alt="Image" src="https://github.com/user-attachments/assets/613a6f4d-0243-456f-893c-e0e4177eca6e" />
 <br>
 
 ## 특징
