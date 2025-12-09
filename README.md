@@ -37,8 +37,8 @@
 
 ### 3. 명령어별 동작
 #### R-type 명령어
-<img width="699" height="395" alt="Image" src="https://github.com/user-attachments/assets/8c3b1ee5-7e4f-402e-9524-19252ec24b81" /
-img width="768" height="407" alt="Image" src="https://github.com/user-attachments/assets/43a21b29-a690-4821-9e1f-e1fbd5c52831" />
+<img width="699" height="395" alt="Image" src="https://github.com/user-attachments/assets/8c3b1ee5-7e4f-402e-9524-19252ec24b81" />
+<img width="768" height="407" alt="Image" src="https://github.com/user-attachments/assets/43a21b29-a690-4821-9e1f-e1fbd5c52831" />
 
 ### 4. 장단점
 #### [장점]
