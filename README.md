@@ -17,6 +17,7 @@
 ## 특징
 ### 1. 동작 방식
 <img width="400" height="188" alt="Image" src="https://github.com/user-attachments/assets/f7521963-f8c7-4fa3-8c9a-ef782753ef16" />
+<br>
 #### 모든 명령어가 정확히 하나의 클록 사이클에 완료된다.
 #### Fetch → Decode → Execute → Memory → Write Back 단계가 한 사이클 내에 순차적으로 진행된다.
 <br>
