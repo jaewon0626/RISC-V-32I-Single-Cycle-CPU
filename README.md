@@ -18,7 +18,7 @@
 ### 1. 동작 방식
 #### 모든 명령어가 정확히 하나의 클록 사이클에 완료된다.
 #### Fetch → Decode → Execute → Memory → Write Back 단계가 한 사이클 내에 순차적으로 진행된다.
-<img width="400" height="188" alt="Image" src="https://github.com/user-attachments/assets/f7521963-f8c7-4fa3-8c9a-ef782753ef16" />
+<img width="928" height="209" alt="image" src="https://github.com/user-attachments/assets/6fe3d7a3-19eb-4a4f-bbdf-f23036e27153" />
 <br>
 
 ### 2. 주요 특징
