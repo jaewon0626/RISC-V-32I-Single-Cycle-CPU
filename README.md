@@ -2,6 +2,7 @@
 ### RISC-V 32I Single Cycle CPU는 RISC-V 명령어 집합 구조(ISA) 중 가장 기본이 되는 32비트 정수형(Integer) 명령어 셋을 처리하는 프로세서이다.
 
 ## RISC-V 개요
+<img width="894" height="276" alt="Image" src="https://github.com/user-attachments/assets/73a5819d-9a3c-403c-bb50-da83c7464945" />
 <br>
 
 ## RISC-V Instruction Set
